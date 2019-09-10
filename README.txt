@@ -1,4 +1,4 @@
-### Supplemental code for Scott and Queller (in press) Ecology and Evolution ###
+### Supplemental code for Scott and Queller (2019) Ecology and Evolution ###
 
 Python files in this folder simulate a one dimensional Fisher’s geometric model with conflict and simulates abiotic change with fixations from conflict simulations.
 
